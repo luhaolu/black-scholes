@@ -1,5 +1,5 @@
 # black-scholes
- Option pricing using Black-Scholes modal. The code is written in Google Sheet's Apps Script, and consumed in Google Sheet as custom function. However, this can be used in JavaScript with a few modification.
+ Option pricing using Black-Scholes modal. The code is written in Google Sheet's Apps Script as a custom function. However, this can be used in JavaScript with a few modification.
 
  The inputs are:
  - Underlying stock price
